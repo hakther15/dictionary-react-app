@@ -1,0 +1,7 @@
+.search-bar {
+  margin: 30px;
+  text-align: left;
+  border: rgb(147, 58, 248) 2px solid;
+  border-radius: 4px;
+  background: rgba(119, 2, 155, 0.397);
+}
