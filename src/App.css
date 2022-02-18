@@ -5,3 +5,22 @@
   border-radius: 4px;
   background: rgba(119, 2, 155, 0.397);
 }
+
+.dictionary {
+  font-size: 60px;
+  color: hotpink;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.sub-title {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  color:rgb(147, 58, 248);
+}
+
+.github {
+  font-size: 10px;
+  text-align: center;
+}
