@@ -20,9 +20,10 @@ export default function Dictionary() {
 
     }
     return (
-        <div className="container">
+        <div className="search">
             <form onSubmit={search}>
-                <input className="search-bar" placeholder="Type a word" size="50" type="search" autoFocus={true} onChange={handleWord} />            </form>
+                <input className="search-bar" placeholder="Type a word" size="50" type="search" autoFocus={true} onChange={handleWord} />
+            </form>
         </div>
     );
 }

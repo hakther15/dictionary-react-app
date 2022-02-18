@@ -1,5 +1,10 @@
+.search {
+  padding: 20px 0px 20px 0px;
+}
 .search-bar {
-  margin: 30px;
+  display: block;
+  margin: 0 auto;
+  align-content: center;
   text-align: left;
   border: rgb(147, 58, 248) 2px solid;
   border-radius: 4px;
