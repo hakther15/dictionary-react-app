@@ -1,5 +1,5 @@
 section.word {
-    background: rgb(0, 132, 255);
+    background: rgb(147, 58, 248);
     color: white;
     margin: 15px;
     border: 3px solid skyblue;
@@ -8,7 +8,7 @@ section.word {
 }
 
 section.meaning {
-    background: rgb(0, 132, 255);
+    background: rgb(147, 58, 248);
     color: white;
     margin: 15px 15px 0px 15px;
     border: 3px solid skyblue;
