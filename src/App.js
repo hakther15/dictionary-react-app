@@ -8,7 +8,7 @@ function App() {
       <h1 className="dictionary">What does it mean??</h1>
       <h4 className="sub-title">Dictionary search</h4>
       <div className="App">
-        <Dictionary defaultKeyword="dictionary" />
+        <Dictionary defaultKeyword="sunrise" />
       </div>
       <div className="github">
         <a

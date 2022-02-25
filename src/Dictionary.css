@@ -1,5 +1,5 @@
 section.word {
-    background: powderblue;
+    background: rgb(0, 132, 255);
     color: white;
     margin: 15px;
     border: 3px solid skyblue;
@@ -8,7 +8,7 @@ section.word {
 }
 
 section.meaning {
-    background: powderblue;
+    background: rgb(0, 132, 255);
     color: white;
     margin: 15px 15px 0px 15px;
     border: 3px solid skyblue;
@@ -16,6 +16,28 @@ section.meaning {
     border-radius: 4px;
 }
 
-strong {
-    color: rgb(85, 85, 216);
+.definition {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.example {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+    color: pink;
+    font-family: 'Rock Salt', cursive;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+ul {
+    font-family:Arial, Helvetica, sans-serif;
 }

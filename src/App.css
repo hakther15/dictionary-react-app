@@ -15,6 +15,13 @@ div.container {
   border: rgb(147, 58, 248) 2px solid;
   border-radius: 4px;
   background: rgba(119, 2, 155, 0.397);
+  color: pink;
+  font-family: 'Rock Salt', cursive;
+}
+
+h4 {
+  text-align: center;
+  color: rgb(255, 0, 157);
 }
 
 .dictionary {
